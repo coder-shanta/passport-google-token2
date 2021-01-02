@@ -1,0 +1,24 @@
+{
+  "name": "passport-google-token2",
+  "version": "0.0.1",
+  "description": "dd",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/shanto-miah/passport-google-token2"
+  },
+  "keywords": [
+    "passport",
+    "google",
+    "auth",
+    "authentication",
+    "identity"
+  ],
+  "author": "Shanto Miah <web.dev.shanto@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "passport-oauth": "^1.0.0"
+  }
+}
