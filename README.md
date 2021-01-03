@@ -130,9 +130,9 @@ access_token=<TOKEN_HERE>
 ```
 
 ## Inspired By
-[Passport-Google-Token](https://github.com/sebastiangugpassport-google-token)
+[Passport-Google-Token](https://github.com/sebastiangug/passport-google-token)
 
-[Passport-Facebook-Token](https://github.com/sebastiangug/passport-google-token)
+[Passport-Facebook-Token](https://github.com/drudge/passport-facebook-token)
 
 
 ## License
