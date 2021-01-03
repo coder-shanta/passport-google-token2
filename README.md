@@ -11,7 +11,7 @@ unobtrusively integrated into any application or framework that supports
 [Express](http://expressjs.com/).
 
 
-[![npm](https://img.shields.io/npm/v/passport-google-oauth20.svg)](https://www.npmjs.com/package/passport-google-token2)
+[![npm](https://img.shields.io/badge/npm-v2.0.2-blue)](https://www.npmjs.com/package/passport-google-token2)
 
 
 ## Recommended
