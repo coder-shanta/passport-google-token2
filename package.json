@@ -1,7 +1,7 @@
 {
   "name": "passport-google-token2",
   "version": "2.0.2",
-  "description": "dd",
+  "description": "Passport strategy for authenticating with Google AccessToken using the OAuth 2.0 API.",
   "main": "./lib",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
