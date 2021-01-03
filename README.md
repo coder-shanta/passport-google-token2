@@ -11,7 +11,7 @@ unobtrusively integrated into any application or framework that supports
 [Express](http://expressjs.com/).
 
 
-[![npm](https://img.shields.io/badge/npm-v2.0.3-blue)](https://www.npmjs.com/package/passport-google-token2)
+[![npm](https://img.shields.io/badge/npm-v2.0.4-blue)](https://www.npmjs.com/package/passport-google-token2)
 
 
 ## Recommended
@@ -43,6 +43,8 @@ $ npm install passport-google-token2
 `Note:` GoogleTokenStrategy 'options' are optional so just pass `{}`
 
 ```javascript
+const GoogleTokenStrategy = require('passport-google-token2');
+
 passport.use(new GoogleTokenStrategy({},
     async (accessToken, refreshToken, profile, done) => {
         try {
